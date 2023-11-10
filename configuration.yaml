@@ -1,0 +1,31 @@
+# Do not change output path if it is not necessary
+output_file_path: "output/output.pdf"
+
+
+# pdf template information
+# duration_of_expiry indicate how many days will expire
+template_path: "data/online_verification_report_template.pdf"
+date_of_renewal: "2023/11/10"
+duration_of_expiry: "30"
+qr_code: "data/qr_code.png"
+certificate_photo: "data/certificate_photo.png"
+verification_code: "VERIFICATIONCODE"
+
+
+# personal information
+# enter school english name if you can
+# Regular Higher Education means 普通高等教育
+name: "张三"
+sex: "男"
+id_number: "123456789012345678"
+ethnic_background: "汉族"
+date_of_birth: "2000/01/01"
+higher_education_institution: "Demo University"
+education_level: "本科"
+major: "计算机科学"
+form_of_learning: "全日制"
+start_date: "2020/09/01"
+length_of_program: "4年"
+type_of_education: "Regular Higher Education"
+status_of_student_record: "Registered"
+anticipated_graduation_date: "2024/06/30"
