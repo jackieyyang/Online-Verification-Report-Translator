@@ -23,5 +23,5 @@
       python main.py
    ```
    
-5. 在 soutput 目录下查看生成的文件
+5. 在 output 目录下查看生成的文件
     
